@@ -10,7 +10,7 @@ on:
       agent_description:
         description: manz0710
         required: true
-        default: 'manz07 AI Agent'
+        default: 'manz0710 AI Agent'
 
 jobs:
   verify:
